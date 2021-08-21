@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Penguins-Classifier.py
+web: sh setup.sh && streamlit run Penguins_Classifier.py
