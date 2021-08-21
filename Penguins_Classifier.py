@@ -11,8 +11,6 @@ st.write("""
 # Penguin Species Prediction App
 This app predicts the **Palmer Penguin** species!
 Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
-Used Tutorial/.///
-Adapted by imputing ... 
 """)
 
 st.sidebar.header('User Input Features')
